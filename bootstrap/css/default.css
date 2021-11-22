@@ -1,0 +1,113 @@
+.big-banner {
+    background-image: url(../../html/img/background-contact.png);
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: scroll;
+    padding-top: 100px;
+    padding-bottom: 300px;
+}
+
+.header-site {
+
+    background-image: url(../../html/img/background/tower.jpg);
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: scroll;
+    color: #ffffff;
+    padding-top: 400px;
+    padding-bottom: 300px;
+
+}
+
+.header-site-contact{
+
+    background-image: url(../../html/img/maps-colider.jpg);
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-attachment: scroll;
+    color: #ffffff;
+    padding:100% 0%;
+
+}
+
+.header-site-service {
+
+    background-image: url(https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Blogimage.png);
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: scroll;
+    color: #ffffff;
+    padding-top: 400px;
+    padding-bottom: 300px;
+
+}
+
+.containt-site {
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+
+.containt-site2 {
+    background-image: url(../../html/img/background/walktalkie.jpg);
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: scroll;
+    color: #ffffff;
+    padding-top: 400px;
+    padding-bottom: 300px;
+}
+
+.containt-site3 {
+    background-image: url(../../html/img/background/landscape-01.jpg);
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: scroll;
+    color: #ffffff;
+    padding-top: 400px;
+    padding-bottom: 300px;
+}
+
+.header-site-roip {
+    background-image: url(../../html/img/background/thumb-smartphone.jpg);
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: scroll;
+    color: #ffffff;
+    padding-top: 400px;
+    padding-bottom: 300px;
+}
+
+.containt-site-service-1 {
+    background-image: url(../../html/img/background/lab.jpg);
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: scroll;
+    color: #ffffff;
+    padding-top: 400px;
+    padding-bottom: 300px;
+}
+
+.card:hover {
+    transform: translateX(0px) translateY(-15px);
+}
+
+.card {
+    transition: transform 500ms ease-in-out 25ms;
+}
+
+.carousel-item {
+    height: 100%;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
